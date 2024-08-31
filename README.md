@@ -7,7 +7,9 @@
 ## Problem address
 
 There are many strange names for packages and commands in Emacs that are often misinterpreted by Voice In.
-This library of tax Replacements is meant to correct these recurring errors.
+This library of text replacements is meant to correct these recurring errors.
+There is a related Library, *org-mode-voice-in*, that is org-mode specific.
+The *emacs-voice-in* library is meant to contain text replacements for the rest of Emacs outside of org-mode.
 
 ## Update history
 
